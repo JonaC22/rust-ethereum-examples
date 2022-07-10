@@ -1,5 +1,5 @@
 [package]
-name = "eth-tx-example"
+name = "rust-ethereum-examples"
 version = "0.1.0"
 edition = "2021"
 

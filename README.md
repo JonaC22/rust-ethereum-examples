@@ -1,6 +1,7 @@
 # rust-ethereum-examples
 Sending ethereum transactions with Rust
 
+Based on https://github.com/craigwilliams84/rust-ethereum/ examples for previous rust edition
 
 ### Before run
 
