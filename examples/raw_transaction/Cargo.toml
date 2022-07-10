@@ -1,0 +1,13 @@
+[package]
+name = "rust-ethereum-examples"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+web3 = { git = "https://github.com/tomusdrw/rust-web3" }
+tokio = { version = "1.19.2", features = ["full"] }
+ethereum-tx-sign = "0.0.2"
+ethereum-types = "0.4"
+hex = "0.3.1"
